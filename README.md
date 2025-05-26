@@ -1,5 +1,5 @@
 ![alt text](https://github.com/retno-kusbianto/portofolio-retno-kusbianto/blob/main/CV-pdf/ETL%20Retno.jpg?raw=true)
-# Retno Kusbianto's Portfolio
+# Retno Kusbianto's Portofolio
 ---
 ##### Hi, I'm Retno, an experienced Hotel Receptionist in the hospitality industry.
 I enjoy meeting people, building relationships and learning new and interesting things.

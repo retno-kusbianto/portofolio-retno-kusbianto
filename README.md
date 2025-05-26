@@ -1,4 +1,4 @@
-# portofolio-retno-kusbianto
+# Retno Kusbianto's Portfolio
 ---
 ##### Hi, I'm Retno, an experienced Hotel Receptionist in the hospitality industry.
 I enjoy meeting people, building relationships and learning new and interesting things.

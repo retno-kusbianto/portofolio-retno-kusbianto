@@ -8,4 +8,4 @@ I am currently participating in the Eco Techno Leadership Program, which aims to
 ...
 ##### If you're interested in my background or want to see what I’ve worked on, you could check my CV here 
 ![CV](https://github.com/retno-kusbianto/portofolio-retno-kusbianto/blob/main/CV-pdf/CV%20Kerja%20Retno.%20K.pdf)
-Terimakasih
+Thankyou,.
